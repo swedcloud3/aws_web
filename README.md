@@ -2,3 +2,6 @@
 web service on aws
 
 testing on web
+
+from voc
+
